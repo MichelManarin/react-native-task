@@ -1,4 +1,4 @@
 # react-native-task
 
-Commit inicial
-https://gph.is/g/ZWqxeYL
+![appTask](https://media.giphy.com/media/sQvh6EVdelfPbzo0Gp/giphy.gif)
+
